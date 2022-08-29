@@ -1,7 +1,7 @@
-**TodoList WebApp With Local Storage**
+**TodoList WebApp**
 
-A simple TodoList WebApp that stores your todo locally on your laptop.
+A simple TodoList WebApp built with: HTML, CSS and JAVASCRIPT.
 
-Here's a link to preview the app: https://danny-hacks.github.io/TodoList-WebApp/
+Here's a link to preview the app: https://webapp-todolist.netlify.app
 
-PS: You need to have the project files on your Laptop for your todos to be locally stored.
+PS: You do not lose your todos when you refresh or close the site.
